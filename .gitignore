@@ -46,3 +46,4 @@ Temporary Items
 .pem
 .env
 .tfvars
+terraform.tfvars
