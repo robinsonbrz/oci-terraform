@@ -1,17 +1,13 @@
-Automatizando Criação de Instância Free Tier Oracle OCI
+### Automatizando Criação de Instância Free Tier Oracle OCI
 
 
-Essa configuração Terraform necessita apontar para uma Subnet pré configurada
+## Essa configuração Terraform necessita apontar para uma Subnet pré configurada
 
-Renomear o arquivo 
-
-**terraform.tfvarsEXAMPLE** para **terraform.tfvars** 
-
-e preencher com os dados de sua conta OCI
+### Renomear o arquivo **terraform.tfvarsEXAMPLE** para **terraform.tfvars** e preencher com os dados de sua conta OCI
 
 
 
-```
+``` bash
 # Autenticar na OCI
 oci session authenticate
 
