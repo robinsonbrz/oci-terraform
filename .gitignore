@@ -44,3 +44,5 @@ Temporary Items
 .crt
 .csr
 .pem
+.env
+.tfvars

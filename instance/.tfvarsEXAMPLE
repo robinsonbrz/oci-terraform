@@ -1,0 +1,10 @@
+tenancy_ocid="ocid1.tenancy.oc1..a"
+user_ocid="ocid1.user.oc1..aaaaaaa"
+# fingerprint do usuario OCI que recebe a chave publica no usuario oci
+fingerprint="11:8b:b5:..."
+# Privte key criada da publica associada a chave e fingerprint 
+private_key_path="~/.oci/chave.pem"
+region="sa-saopaulo-1"
+compartment_ocid="ocid1.compartment.oc1..aaaa"
+config_file_profile="default"
+subnet_id="ocid1.subnet.oc1.sa-saopaulo-1.aaaaa"
