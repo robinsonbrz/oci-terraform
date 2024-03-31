@@ -44,7 +44,7 @@ resource "oci_core_instance" "second-instance" {
   }
 
   metadata = {
-    ssh_authorized_keys = file("/home/rob/.ssh/id_rsa.pub")
+    ssh_authorized_keys = file(var.ssh_authorized_keys)
   }
 
   preserve_boot_volume = false

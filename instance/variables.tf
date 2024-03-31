@@ -8,3 +8,4 @@ variable "private_key_path" {
 }
 variable "subnet_id" {}
 variable "config_file_profile" {}
+variable "ssh_authorized_keys" {}
