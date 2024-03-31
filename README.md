@@ -5,6 +5,29 @@
 
 A utilização do Terraform e Infraestrutura como Código **IaC** permite o setup e destruição rápido de recursos na nuvem.
 
+  <div align="center">
+    <table>
+      </tr>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                Adaptação e deploy por Robinson Enedino
+            </td>
+        <td>
+            <a  href="https://www.linkedin.com/in/robinsonbrz/">
+            <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/linkedin.png" width="30" height="30">
+        </td>
+        <td>
+            <a  href="https://www.linkedin.com/in/robinsonbrz/">
+            <img  src="https://avatars.githubusercontent.com/u/18150643?s=96&amp;v=4" alt="@robinsonbrz" width="30" height="30">
+        </td>
+        <td>
+            <a href="mailto:robinsonbrz@gmail.com">
+            <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/gmail.png" width="30" height="30" ></a>
+        </td>
+      </tr>
+    </table>
+  </div>
+
 Este repositório contém arquivos organizados em pastas, utilizados para criar recursos e pode ser um ponto de partida para implementações mais complexas tanto na OCI e outros provedores de serviços nuvem.
 
 Cada pasta tem um propósito específico e terá um README.md mais específico sobre sua utilização.
@@ -46,5 +69,28 @@ terraform apply
 terraform apply -destroy
 
 ```
+
+
+  <h1 align="center"> Informações e contato </h1> 
+  <div align="center">
+    <table>
+        </tr>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/linkedin.png" width="100" height="90">
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img  src="https://avatars.githubusercontent.com/u/18150643?s=96&amp;v=4" alt="@robinsonbrz" width="30" height="30">
+            </td>
+            <td>
+                <a href="https://www.enedino.com.br/contato">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/gmail.png" width="120" height="100" ></a>
+            </td>
+        </tr>
+    </table> 
+  </div>
+  <br>
+</div>
 
 
