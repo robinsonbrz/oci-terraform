@@ -1,0 +1,13 @@
+tenancy_ocid="ocid1.tenancy.oc1..aaaaaaaauxqd76laskdjlaksjdlaskjdlaskj"
+user_ocid="ocid1.user.oc1..aaaaaaaauxqd76laskdjlaksjdlaskjdlaskj"
+fingerprint="Fingerprint de sua API Key no console OCI"
+
+# Chave que será utilizada para criação dos recursos pelo tTerraform com o provider
+private_key_path="~/.oci/oci_api_key.pem"
+# Sua regiao
+region="sa-saopaulo-1"
+# seu compartment
+compartment_ocid="ocid1.compartment.oc1..aaaaaaaauxqd76laskdjlaksjdlaskjdlaskj"
+# Sua chave publica SSH para acesso da instância
+ssh_public_key="/home/rob/.ssh/id_rsa.pub"
+
