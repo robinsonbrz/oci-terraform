@@ -1,7 +1,6 @@
 # Automatizando Criação de Instância Free Tier Oracle OCI
 
 
-
 ### Experimento prático sobre a criação de recursos utilizando Terraforma na nuvem Oracle OCI.
 
 A utilização do Terraform e Infraestrutura como Código **IaC** permite o setup e destruição rápido de recursos na nuvem.
