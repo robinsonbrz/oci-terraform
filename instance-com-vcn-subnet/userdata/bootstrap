@@ -1,5 +1,2 @@
 #!/bin/bash
 apt update -y
-
-echo "File created with bootstrap file from userdata Terraform" > ~/terraform-bootstrap-message.txt
-

@@ -11,3 +11,15 @@ compartment_ocid="ocid1.compartment.oc1..aaaaaaaauxqd76laskdjlaksjdlaskjdlaskj"
 # Sua chave publica SSH para acesso da instância
 ssh_public_key="/home/rob/.ssh/id_rsa.pub"
 
+# Nomes de exibição dos serviços
+instancia_display_name="TF"
+vnic_display_name="TFVnic"
+
+vcn_display_name="TFVcn"
+vcn_dns_label="TFVcn"
+
+internet_gateway_display_name="TFIntGtw"
+route_table_display_name="TFRtTable"
+
+subnet_display_name="TFSubnet"
+subnet_dns_label="TFSnetDNS"
